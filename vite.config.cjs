@@ -19,7 +19,7 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         detalles: resolve(__dirname, 'detalles.html'),
-        busqueda: resolve(__dirname, 'busqueda.html')
+        ofertas: resolve(__dirname, 'ofertas.html')
         
       }
     }
